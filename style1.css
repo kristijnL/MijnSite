@@ -67,7 +67,7 @@ p{
 /* Media Queries for Mobile Devices */
 @media (max-width: 768px) {
     html {
-        font-size: 5px;
+        font-size: 12px;
     }
 
     h1 {
