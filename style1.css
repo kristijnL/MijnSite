@@ -86,7 +86,9 @@ p{
     .btn {
         padding: 2rem 5rem;
         font-size: 1.6rem;
+        margin-bottom: 0.5rem;
     }
+
 
     .container {
         padding: 0 1.5rem; 
