@@ -61,3 +61,37 @@ p{
     color: #398f51;
     border-radius: 8.1px;
 }
+
+/* Media Queries voor Mobile Devices */
+@media (max-width: 768px) {
+    html {
+        font-size: 5px;
+    }
+
+    h1 {
+        font-size: 4rem;
+    }
+
+    h2 {
+        font-size: 3rem;
+    }
+
+    p {
+        font-size: 1.8rem;
+    }
+
+    .btn {
+        padding: 2rem 5rem;
+        font-size: 1.6rem;
+    }
+
+    .container {
+        max-width: 100%; 
+        padding: 0 1.5rem; 
+    }
+
+    .image img {
+        max-width: 100%;
+        height: auto;
+    }
+}
