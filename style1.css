@@ -1,0 +1,10 @@
+body{
+    background-color: hsl(0, 0%, 20%);
+    color: whitesmoke;
+    font-family: quicksand;
+}
+
+.titels{
+    font-weight: bold;
+}
+
