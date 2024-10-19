@@ -60,7 +60,13 @@ p{
     text-decoration: none;
     color: #398f51;
     border-radius: 8.1px;
+    transition: background-color 0.3s ease-in-out;
 }
+
+
+    .btn:hover{
+        background: hsl(0, 0%, 66%);
+    }
 
 /* Media Queries voor Mobile Devices */
 @media (max-width: 768px) {
