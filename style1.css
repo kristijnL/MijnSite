@@ -64,6 +64,11 @@ p{
     border-radius: 8.1px;
 }
 
+.easter {
+    text-decoration: none;
+    color: #f6f6f6;
+}
+
 /* Media Queries for Mobile Devices */
 @media (max-width: 768px) {
     html {
